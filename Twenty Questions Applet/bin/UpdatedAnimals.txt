@@ -1,0 +1,55 @@
+
+Does it have feathers
+1
+Is it a mammal
+11
+Answer
+Is it a gila monster
+12
+does it have stripes
+121
+Does it hop
+1211
+Answer
+Is it an elephant
+1212
+Answer
+Is it a kangaroo
+122
+Answer
+Is it a tiger
+2
+Does it live in a barnyard
+21
+Is it wise
+211
+Does it gobble
+2111
+Does it say "Nevermore!"
+21111
+Answer
+Is it an eagle
+21112
+Answer
+Is it a raven
+2112
+Answer
+Is it a turkey
+212
+Answer
+Is it an owl
+22
+Answer
+Is it a chicken
+111
+Is it an insect?
+1112
+Is it common in urban areas?
+11122
+Answer
+Is it a fly?
+111221
+Does it bite people?
+1112212
+Answer
+Is it a mosquito?
